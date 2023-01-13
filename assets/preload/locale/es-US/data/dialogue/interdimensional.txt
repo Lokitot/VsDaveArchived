@@ -1,0 +1,7 @@
+setfont_code:dave,festival-3d-scared:UH OH NO DE NUEVO
+:dave,festival-3d-scared:ESTE NO ES UN BUEN MOMENTO PARA ESTO
+distort:dave,festival-3d-scared:HAY PERSONAS ALREDEDOR, PODRIAN SALIR HERIDOS
+undistort:dave,festival-3d-scared:AYUDA
+:dave,festival-3d-scared:TENGO UNA IDEA QUE NOS PUEDE SALVAR A TODOS
+:dave,festival-3d-scared:TRATA DE BATALLAR CONMIGO COMO LA ULTIMA VEZ
+setfont_normal:bf,confused:Boop bap

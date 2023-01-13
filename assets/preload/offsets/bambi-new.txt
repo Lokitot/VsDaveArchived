@@ -1,0 +1,13 @@
+singRIGHT-alt 20 10
+singDOWN 22 -28
+singRIGHTmiss 6 16
+singLEFT-alt 24 4
+singLEFTmiss 66 19
+singUP 55 36
+idle 0 0
+singRIGHT -16 8
+singSmash 98 81
+singDOWNmiss 27 2
+singLEFT 70 6
+singUPmiss 66 34
+singThrow 37 23

@@ -1,0 +1,12 @@
+:generic: Após os eventos de Splitathon, BF e GF são ambos convidados para o festival para cantar com Dave e seus amigos algumas semanas depois.
+:dave,festival: Oi gente!
+:dave,festival: Você tá pronto pra cantar, BF?
+:bf: Bep.
+:dave,festival: Nós estamos meio vazios em questão de plateia mas vou tentar meu melhor pra dar um showzão!
+:gf,happy: Nós somos geralmente muito bons nisso.
+:dave,festival: Ótimo! Eu tenho uma fila de pessoas pra você cantar contra.
+:dave,festival: Vai ser o Bambi, Tristan, aí depois eu!
+:dave,festival: Se nós criarmos animação o suficiente eu talvez possa cantar outra..
+:bambi,annoyed: Vamo lá!!!
+:dave,festival: Beleza beleza, eu vou deixar vocês começarem!
+:bf,ready: Yeah!

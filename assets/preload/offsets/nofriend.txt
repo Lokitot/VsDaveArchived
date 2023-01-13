@@ -1,0 +1,8 @@
+hey -6 4
+idle 0 0
+attack 468 -20
+singDOWN -38 -40
+singRIGHT -33 0
+singUP 30 10
+singLEFT 30 1
+fail 468 -20

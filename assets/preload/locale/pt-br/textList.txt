@@ -1,0 +1,401 @@
+// TITLE STATE //
+Pressione Enter para Começar
+
+// OUTDATED STATE \\
+introWarningFirstPlay==Olá! Esse mod utiliza shaders que podem ser prejudiciais para alguns. Se você quiser desativar eles, desligue a opção Efeitos no menu de opções. Supernovae e Glitch são músicas que não devem ser levadas a sério e não são produzidas por mim. Supernovae foi feito por ArchWk, e Glitch foi feito por The Boneyard. Pressione Enter para continuar.
+introWarningSeen==Olá! Esse mod utiliza shaders que podem ser prejudiciais para alguns. Se você quiser desativar eles, pressione N, se não quiser, pressione Y. Você pode mudar isso nas opções. Supernovae e Glitch são músicas que não devem ser levadas a sério e não são produzidas por mim. Supernovae foi feito por ArchWk, e Glitch foi feito por The Boneyard. 
+
+// Main Menu State //
+main_story==Modo História
+main_freeplay==Modo Livre
+main_freeplay_glitch==MEU JOGO
+main_credits==Créditos
+main_ost==OST
+main_options==Opções
+main_discord==Discord
+main_resetdata==Pressione R para redefinir seus dados
+main_warningdata==Tem certeza de que deseja redefinir todos os seus dados?
+
+// Compatibility Mode Screen//
+compat_warning==Deseja ativar o modo de compatibilidade?:linebreak:Isso ajudará no atraso/travamento em PCs de baixo custo, mas desabilita alguns efeitos especiais.
+compat_yes==Sim
+compat_no==Não
+
+// Main Menu Descriptions //
+desc_story==Jogue o modo história para desbloquear novos personagens, e entender a história em si!
+desc_freeplay==Jogue qualquer música de escolha sua e alcance novas pontuações!
+desc_freeplay_glitch==Toque minha música como eu desejo e falhe.
+desc_credits==Dê uma olhada no pessoal que trabalhou e contribuiu para o mod!
+desc_ost==Escute as músicas do mod.
+desc_options==Ajuste suas configurações e preferências.
+desc_discord==Junte-se ao servidor do Discord oficial de Vs. Dave & Bambi!
+
+// Freeplay State // (freeplay_finale, freeplay_fucked, freeplay_lmao)
+freeplay_dave==Dave
+freeplay_joke==Piadas
+freeplay_extra==Extra
+
+freeplay_personalBest==Rec. Pessoal:
+freeplay_hard==Difícil
+freeplay_normal==Normal
+freeplay_easy==Fácil
+freeplay_finale==FINAL
+freeplay_fucked==CÊ TÁ FUDIDO
+freeplay_lmao==KKKKKKK
+
+freeplay_skipChar==Segure o CTRL para pular a Seleção de Personagem
+
+// Pause State //
+pause_Resume==Resumir
+pause_Restart Song==Reiniciar Musica
+pause_Change Character==Trocar de Personagem
+pause_Exit to menu==Sair para o Menu
+pause_No Miss Mode==Invencibilidade
+
+// Credits State //
+credits_dev==Desenvolvedores
+credits_translator==Tradutores
+credits_contributor==Contribuidores
+credits_betaTester==Beta Testers
+credits_specialThanks==Agradecimentos Especiais
+
+credits_songby==Música por
+
+// Credits Words //
+supernovae_credit==Música original feita por ArchWk!
+glitch_credit==Música original feita por DeadShadow e PixelGH!
+mealie_credit==Música original feita por Alexander Cooper 19!
+overdrive_credit==Música original feita por Top 10 Awesome!
+unfairness_credit==Ghost Tapping foi desligado! SE FODEU!
+cheating_credit==Notas embaralhadas! SE FODEU!
+exploitation_credit==Você não sobreviverá
+kabunga_credit==CARALHO EU MURCHEI
+
+// Options State // (pt-br, ru-RU, option_noteCamera_on, option_noteCamera_off)
+option_change_keybinds==Mudar Teclas
+
+option_ghostTapping_on==Ghost Tapping
+option_ghostTapping_off==Sem Ghost Tapping
+
+option_downscroll==Downscroll
+option_upscroll==Upscroll
+
+option_songPosition_on==Posicao da Musica On
+option_songPosition_off==Posicao da Musica Off
+
+option_eyesores_enabled==Efeitos Ativados
+option_eyesores_disabled==Efeitos Desativados
+
+option_selfAwareness_on==Autoconsciencia Ativada
+option_selfAwareness_off==Autoconsciencia Desativada
+
+option_hitsound_on==Hitsounds Ativos
+option_hitsound_off==Hitsounds Desativados
+
+option_fpsCap==idk
+
+option_freeplay_cutscenes_off==Cutscenes no Modo Livre Off
+option_freeplay_cutscenes_on==Cutscenes no Modo Livre On
+
+option_noteCamera_on==Movimento de Camera por Pose
+option_noteCamera_off==Camera Normal
+
+option_change_langauge==Mudar idioma
+option_disable_fps==Nao mostrar FPS
+option_enable_fps==Mostrar FPS
+
+option_songBarType_Time Left==Tipo da Barra de Música: Tempo Restante
+option_songBarType_Song Name==Tipo da Barra de Música: Nome da Música
+
+option_enable_compat==Ativar o modo de compatibilidade
+option_disable_compat==Desabilitar o modo de compatibilidade
+
+cur_language==Idioma Atual
+en-US==Ingles
+es-US==Espanhol
+pt-br==Portugues BR
+ru-RU==Russian
+
+// Keybind State //
+keybind_tutorial==Selecione um controle e então uma tecla
+keybind_preset==Presets de Teclas:
+
+// Story Mode State // 
+story_track==Faixas
+story_weekScore==Pontuação:
+story_tutorial==Aula de ritmo de Dave!
+story_daveWeek==A Divertida Batalha de Rap Contra Dave!
+story_bambiWeek==O Divertido Labirinto de Milho do Sr. Bambi!
+story_finale==O Final
+story_festivalWeek==O Festival de Milho do Bambi!
+story_masterWeek==Semana do Mestre Bambi!
+story_masterWeekToPlay==?????????
+
+
+// CHARACTER SELECT STATE //
+character_reset==Pressione R para Reiniciar
+
+// Cool Util / Diffs //
+play_hard==Difícil
+play_normal==Normal
+play_easy==Fácil
+
+// Play State //
+play_score==Pontuação:
+play_miss==Erros:
+play_accuracy==Precisão:
+fnaf_retry==Tentar novamente?
+
+// Blocked Subtitles //
+blocked_sub1==Eu te bloquear...
+blocked_sub2==Você é um monstro...
+blocked_sub3==Você arruinou minha vida!
+blocked_sub4==Moldy eu juro por deus eu vou te bloquear
+blocked_sub5==PRA SEMPRE.
+blocked_sub6==Eu tô tentando...
+blocked_sub7==Não eu não tô tentando te ajudar...
+blocked_sub8==Porque cê vai ver...
+blocked_sub9==Porque...
+blocked_sub10==me assista vá se inscrever a mim
+blocked_sub11==Que seja.
+
+// Corn-Theft Subtitles //
+ctheft_sub1==Por causa que ele me banir...
+ctheft_sub2==Por que você me banir...
+ctheft_sub3==Eu-
+ctheft_sub4==Eu não ligo...
+ctheft_sub5==Você quer
+ctheft_sub6==Eu vou te bloquear
+ctheft_sub7==Eu nunca vou voltar.
+
+// Maze Subtitles //
+maze_sub1==Quer dizer...
+maze_sub2==Você pode...
+maze_sub3==Joga comigo...
+maze_sub4==Você não?
+maze_sub5==Nunca mais volte.
+maze_sub6==Tá bom!
+maze_sub7==O que quiser
+maze_sub8==Você joga comigo?
+maze_sub9==Claro.
+maze_sub10==O que você quer jogar?
+maze_sub11==Você me bullying?
+maze_sub12==Nunca mais volte.
+
+// Mealie Subtitles //
+mealie_sub1==Eu bloquear você!
+mealie_sub2==Eu ir sua casa
+mealie_sub3==e eu vou te CAIR
+mealie_sub4==A cama sua-
+mealie_sub5==Sua casa!
+mealie_sub6==Isaac...
+mealie_sub7==Cala a boca.
+mealie_sub8==Para usar a porra do...
+mealie_sub9==Ah oh eu vou quebrar o meu
+mealie_sub10==CELULAR!
+mealie_sub11==Você ia queria-
+mealie_sub12==a porra do celular?
+mealie_sub13==PUTA MERDA!
+mealie_sub14==Seu mentiroso Moldy!
+mealie_sub15==Vai pro inferno!
+
+// Shredder Subtitles //
+shred_sub1==Ai meu deus...
+shred_sub2==Eu te odeio tanto
+shred_sub3==Aquele cara, eu te odeio tanto...
+shred_sub4==Olha seu armário!
+shred_sub5==Olha seu armário!
+shred_sub6==Se não
+shred_sub7==Eu vou te matar seu forasteiro de uma
+shred_sub8==Figa.
+shred_sub9==E isso
+shred_sub10==Durrrr!
+shred_sub11==Olha seu armário filhos da puta
+shred_sub12==Olha seu armário filhos da puta
+shred_sub13==Isso aí!
+shred_sub14==Isso aí!
+
+// Exploitation Subtitles //
+exploit_sub1==Mai que porra?
+exploit_sub2==Ha ha haaaaaa hoo?
+exploit_sub3==Isso diz você?
+exploit_sub4==Ha ha, ha
+
+// Cheating Subtitles //
+cheating_sub1==Eu bloquear você.
+cheating_sub2==Você é monstro.
+cheating_sub3==Você arruinar minha vida!
+cheating_sub4==Moldy eu juro por deus eu bloqueio você pra sempre.
+cheating_sub5==Eu vou bloquear.
+cheating_sub6==Você para clicar em amizade...
+cheating_sub7==Jumpman12 eu bloquear você Moldy! 
+cheating_sub8==Auugh auugh
+cheating_sub9==*tagarelice*
+cheating_sub10==Ok, *tagarelice*
+cheating_sub11==Você estúpido.
+cheating_sub12==Uhhh, *tagarelice*
+cheating_sub13==Qual o seu, uhh...
+cheating_sub14==Qual o seu jogo divertidos?
+cheating_sub15==Wh-
+cheating_sub16==Qual seu jogo favoritos?
+cheating_sub17==Qual seu favorito?
+cheating_sub18==Nome dele-
+cheating_sub19==Ele disse...
+cheating_sub20==Jogos mortos.
+cheating_sub21==Pinto!
+cheating_sub22==Jumpman...
+cheating_sub23==Não...
+cheating_sub24==Pinto, heh!
+cheating_sub25==Ô meu deus tá...
+cheating_sub26==Não é engraçado isso é estúpido.
+cheating_sub27==Ohoh!!!
+cheating_sub28==Hehehe! Huhuhuhuh...
+cheating_sub29==Hehehehe...
+cheating_sub30==Huhuhuhuhuhu, hehe!
+
+//Unfairness Subtitles//
+unfairness_sub1==Zoando!
+unfairness_sub2==Eu...
+unfairness_sub3==Desenhei...
+unfairness_sub4==Esse aqui duas horas eu desenhando.
+unfairness_sub5==Olha!
+unfairness_sub6==Eu não tô zoando isso é...
+unfairness_sub7==Verdade porra!
+
+//Vs Dave Rap Subtitles//
+daverap_sub1==VS Dave, é meio poopoo
+daverap_sub2==Me faz lembrar de um doodoo
+daverap_sub3==Oooooh!
+daverap_sub4==Quando penso no Obama
+daverap_sub5==Fortnite
+daverap_sub6==Me faz cagar nas calças
+daverap_sub7==Yeah!
+daverap_sub8==Tropeçei numa banana
+daverap_sub9==Ai!
+daverap_sub10==Dirigindo um calhambeque
+daverap_sub11==Aí sim!
+daverap_sub12==Gordon Freeman é verde
+daverap_sub13==Sub pro Stats45
+daverap_sub14==Yeah!
+daverap_sub15==Meu pau coça, queima que nem Baldi doente
+
+//Memory Subtitles//
+memory_sub1==Bom...
+memory_sub2==Até agora isso foi uma jornada,
+memory_sub3==Mas eu só quero dizer isso:
+memory_sub4==Mesmo que você vá embora para conhecer oponentes novos,
+memory_sub5==Lembre-se de que sempre estarei com você no seu coração,
+memory_sub6==E que eu vou apoiar você no caminho
+memory_sub7==o máximo que eu puder. Mas...
+memory_sub8==Antes que tudo se acabe,
+memory_sub9==Quer cantar só mais uma vez?
+memory_sub10==Yeah!
+memory_sub11==Ótimo! Vamos nessa!
+
+// Exploitation Subtitles //
+exploit_sub1==Mai que porra?
+exploit_sub2==Ehhhhhhhhhhhhhhhhhhhhh!!!
+exploit_sub3==Wahahauahahahuehehe!
+exploit_sub4==Porra de celular...
+exploit_sub5==Eoooooooooooooooooo
+exploit_sub6==Seeeiuuuuuuuuuuuuuu
+exploit_sub7==Naaaaaaaaaaaaaaaaaaaaa
+exploit_sub8==Aehehehe...
+exploit_sub9==Oh he...
+exploit_sub10==Você tá tão
+exploit_sub11==foi trollado!
+exploit_sub12==Oops...
+exploit_sub13==Você mentindo!
+exploit_sub14==VOCÊ MENTINDO!
+
+//Vs Dave Rap Two Subtitles//
+daveraptwo_sub1==Me chame de Dave
+daveraptwo_sub2==Joga o meu game
+daveraptwo_sub3==Sou o Dave e tenho um mod
+daveraptwo_sub4==Sou o Dave e comigo tu não pode
+daveraptwo_sub5==Meu pipi coça(yum)
+daveraptwo_sub6==3.0
+daveraptwo_sub7==Vs Dave, eu sou gay
+daveraptwo_sub8==Mr. Bambi ama quebrar celular (ha)
+daveraptwo_sub9==Mergulho gamestop com comprar game xbox
+daveraptwo_sub10==Jogue o mod Vs Dave and Bambi 3.0
+daveraptwo_sub11==Disponível no GameBanana!
+daveraptwo_sub12==Yum.
+
+indignancy_sub1==Me mata, eu quero morrer carai
+indignancy_sub2==Me chuta, por favor senpai
+indignancy_sub3==Me chutoooou
+indignancy_sub4==Eu sair daqui.
+indignancy_sub5==AuuuuuuAAAAAAAAAAAAAAA
+
+3d_gameOver_polygonized==Você foi Poligonizado!
+3d_gameOver_restart==Tentar de novo?
+
+//developers 
+credit_MoldyGH==Diretor, Criador, Programador, Compositor, Desenvolvedor Principal
+credit_MissingTextureMan101==Desenvolvedor Secundário e Programador
+credit_rapparep lol==Artista Principal
+credit_TheBuilderXD==Artista Secundário
+credit_Erizur==Programador do novo Menu Principal, Artista & Tradutor Espanhol
+credit_T5mpler==Programador e Assistente
+credit_Zmac==Cenários 3D, ajuda com os intro texts
+credit_pointy==Artista & Charter
+credit_Billy Bobbo==Apoio Moral & Sugestão de Ideas
+
+//translators
+credit_dani==Tradutor (Espanhol)
+credit_Aizakku==Tradutor (Português Brasileiro)
+credit_Soulegal==Tradutor (Português Brasileiro)
+
+//contributors
+credit_Steph45==Programação adicional
+credit_evdial==Artista principal da semana do Bambi
+credit_wugalex==Artista de Cenário
+credit_Jukebox==Artista de Cenário
+credit_Oxygen==Compositor
+credit_Alexander Cooper 19==Compositor, Charter
+credit_Aadsta==Compositor, Artista de Cenário
+credit_Project Tea==Charter
+credit_Top 10 Awesome==Compositor, Carinha engraçado
+credit_BombasticHype==Fez a cutscene da House
+credit_Sky!==Fez o voice bank nas novas músicas do Bambi feitas pelo Moldy
+credit_Ruby==Compositor (Adventure)
+credit_Lancey==Artista pros Cenários no Menu
+credit_Cup==Fez os cabeçalhos das músicas
+credit_ShiftyTM==Fez a voz do Bambi afinado na Maze & Indignancy
+credit_Paraso==Artista pros Cenários no Menu
+credit_SAMMYPIGZY==Artista
+credit_R34LD34L==Compositor
+credit_Devianator==Ajudou com os ícones nos créditos
+credit_sk0rbias==Artista pro Menu
+credit_Your mom==Compôs o Vs Dave Rap, 100% real.
+credit_sibottle==Compositor
+credit_chromasen==Ajuda com código nas janelas
+
+//Beta Testers
+credit_letsy==Beta Tester
+credit_wildy==Beta Tester
+credit_peejeada==Beta Tester & Apoiador
+credit_bendygaming_1==Beta Tester, Irmão super foda e legal do Moldy
+credit_YourAverageMental==Beta Tester
+credit_vex==Beta Tester
+credit_xml==Beta Tester
+credit_ztgds==Ajuda adicional com Programação, Beta Tester
+credit_ashtonyes==Beta Tester
+credit_Silver Escaper==Beta Tester
+credit_TrustVVorthy==Beta Tester
+credit_Gorbini==Beta Tester
+credit_Log Man==Beta Tester
+credit_Mooncakeez==Beta Tester
+credit_Foxnap==Beta Tester
+credit_lotuswaterz==Beta Tester
+credit_mantis==Beta Tester
+credit_ArturSef==Beta Tester
+credit_normal==Beta Tester
+credit_Rendurse==Beta Tester
+credit_Lordryan1999==Beta Tester
+credit_Vanquiler==Beta Tester
+credit_Villezen==Beta Tester
+credit_TecheVent==Beta Tester
+credit_miko==Beta Tester
+credit_Cotiles==Beta Tester

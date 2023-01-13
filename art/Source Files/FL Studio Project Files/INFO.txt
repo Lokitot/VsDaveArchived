@@ -1,0 +1,17 @@
+Furiosity is missing due to me losing it, sorry
+For Bambi's vocals just open Slicex and add break_phone.ogg from the Dave files
+Bambi's samples for Splitathon are included in the Samples folder, simply open Fruity Slicer (not slicex) and drag them in
+Exploitation is made by Oxy, that was made in Casutic 3 (which is free on PC), the samples are in the file itself.
+
+Plugins required to load these songs properly:
+Boyfriend DirectWave Instrument: https://drive.google.com/file/d/1Zzrk9QplR9zu3mCDbfIy-IVKAIF5g6rS/view?usp=sharing
+EZdrummer 2 (Used in Insanity and Splitathon, uses a whole gigabyte of memory so make sure your pc can handle that)
+Serum (Used in Corntheft for those heavy leads you hear)
+reFX Nexus (Used in Corntheft for basses and pads)
+Kontakt Loader + Orchestral Essentials (Used in maze for the staccato backing)
+Valhalla DSP Pack (Used in unfairness for that weird bitcrush effect on the drums, also used in maze for the snares)
+
+Samples for songs will be included
+
+i wanna shart
+me too, wait

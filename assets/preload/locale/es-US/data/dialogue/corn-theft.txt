@@ -1,0 +1,26 @@
+:bambi,annoyed: ¡Oh santisima madre!
+:generic: LLAMADA ENTRANTE DE: DAVE
+:bambi,confused: ¿Huh? ¿Hola?
+:dave,phone: Hola Bambi, habla Dave...
+:bambi,confused: ¿Porque me intentas llamar?
+:dave,phone: ¿Hay alguna posibilidad de que estas peleando con dos "invasores" de altura pequeña por maíz ahora mismo?
+:bambi,annoyed: Si... ¡Justificablemente!
+:dave,phone: Bambi. No están invadiendo.
+:bambi,confused: ¿Qué?
+:dave,phone: ¡Te dije anteriormente que estaba planeando en tener un picnic con ellos!
+:bambi,confused: Eso no tiene sentido...
+:dave,phone: Bambi, escucha-
+:bambi,annoyed: ¡Creo que se lo que esta pasando aquí!
+:bambi,annoyed: ¡Estos no eran los amigos que tu pensabas que eran!
+:dave,phone: Bambi dime que todo esto es una broma-
+:generic: LLAMADA FINALIZADA
+:bambi: Erm...
+:bambi: ¿Están usando la invitación de Dave para robar maíz?
+:gf,what: ¡Eso es lo que ni siquiera estamos tratando de hacer! 
+:bf,confused: ¡Bip boop rumm rumm!
+:bambi: Okay, saben que-
+:bambi: No ganen esta ronda... o... o...
+:bambi: ¡Rompere mi teléfono!
+:bambi: ¡Si! ¡Romperé mi teléfono y quedaran castigados!
+:bf,confused: Bep...
+:gf,what: Si eso lo consideras como un castigo entonces estás un poco mal de la cabeza.

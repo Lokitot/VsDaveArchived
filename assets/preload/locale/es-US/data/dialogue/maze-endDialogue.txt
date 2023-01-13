@@ -1,0 +1,22 @@
+:bambi,upset:Esta bien... Ganan...
+:bf:Yeah!
+:bambi,upset:Solo, ¡Vayanse! Porfavor.
+:generic:Dave sale del maíz.
+:bambi: ¡Oh rayos!
+:dave:Hey, Estoy aquí. Perdón, Estaba llegando tarde.
+:dave,post-maze:Fue un dolor levantar a Tristan.
+:dave,post-maze:Estaba diciendo "Pero Dave..." esto, "Pero Dave..." lo otro.
+:tristan,irritated: ¡No hables como si no estubiera aquí!
+:dave,post-maze:Con todo el respeto, hijo, cállate.
+:bambi:Oh. Ohhh, ¡ohhhhhh!
+:bambi,annoyed:¡Entonces ROMPI MI TELEFONO SIN RAZON ALGUNA!
+:gf,what:Y no tengo ninguna idea por qué pensastes que eso fue una buena idea...
+:bambi,upset:¡SOY UN ESTÚPIDO!
+:dave:Esta bien Bambi, ¡todos cometemos errores de vez en cuando!
+:dave,post-maze:Incluso algunos errores que se pudieron haber evitado.
+:bambi,annoyed:¡Veo exactamente donde esta el sarcasmo!
+:gf,what:Solo empezemos ya con el picnic..
+:tristan: ¡Eso estaría bien!
+:bf:¡Bip!
+:generic:Eventualmente todos se calman y tienen un picnic.
+to_black:generic:Continuará...

@@ -1,0 +1,22 @@
+:bambi,upset: Ok... você venceu..
+:bf: Yeah!
+:bambi,upset: Só, vai embora! Por favor.
+:generic: Dave sai do milharal.
+:bambi: Eita porra.
+:dave: Opa, tô aqui. Desculpa, me atrasei.
+:dave,post-maze: Foi difícil de tirar o Tristan da cama.
+:dave,post-maze: Ele tava todo preguiçoso falando tipo "Mas Dave..."
+:tristan,irritated: Não fala de mim como se eu não tivesse aqui!
+:dave,post-maze: Filho, com todo o respeito, fique quieto.
+:bambi: Oh. Ohhh, ohhhhhh!
+:bambi,annoyed: Então eu QUEBREI MEU CELULAR POR MOTIVO NENHUM!
+:gf,what: E eu não faço ideia do porquê você achou isso genial...
+:bambi,upset: EU SOU TÃO BURRO!
+:dave: Tá tudo bem Bambi, todos nós cometemos erros de vez em quando!
+:dave,post-maze: Mesmo que sejam alguns que poderiam ter sido evitados fácilmente.
+:bambi,annoyed:Tô de olho nesse sarcasmo.
+:gf,what:Vamo só começar logo com esse piquenique.
+:tristan: Isso seria ótimo!
+:bf:Beep!
+:generic:Todos eventualmente se sentam e têm um piquenique.
+to_black:generic:Continua...
